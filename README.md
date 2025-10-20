@@ -1,4 +1,4 @@
-# helloworld
+# favourazusa
 
 AstrBot 插件模板
 
