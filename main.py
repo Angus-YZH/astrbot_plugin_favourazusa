@@ -69,7 +69,7 @@ class FavourAzusaManager:
 
 
 @register("FavourAzusa", "天各一方/修改:有栖日和", "一个由AI驱动的、包含好感度、印象，称呼，身份和关系的多维度交互系统", "0.0.1")
-class FavourProPlugin(Star):
+class FavourAzusaPlugin(Star):
     def __init__(self, context: Context, config: AstrBotConfig):
         super().__init__(context)
         self.config = config
