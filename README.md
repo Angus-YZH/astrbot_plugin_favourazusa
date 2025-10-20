@@ -1,8 +1,8 @@
 # favourazusa
 
-AstrBot 插件模板
+个性化重写后的好感插件
 
-A template plugin for AstrBot plugin feature
+抄写自 https://github.com/Catfish872/astrbot_plugin_favourpro
 
 # 支持
 
