@@ -1,5 +1,5 @@
 name: favourazusa # 这是你的插件的唯一识别名。
-desc: 改自favourpro # 插件简短描述
-version: v0.0.1 # 插件版本号。格式：v1.1.1 或者 v1.1
-author: 有栖日和 # 作者
+desc: 改自favourpro https://github.com/Catfish872/astrbot_plugin_favourpro # 插件简短描述
+version: v0.0.2 # 插件版本号。格式：v1.1.1 或者 v1.1
+author: 天各一方/修改：有栖日和 # 作者
 repo: https://github.com/Angus-YZH/astrbot_plugin_favourazusa # 插件的仓库地址
